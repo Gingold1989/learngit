@@ -3,3 +3,4 @@ licence
 分支联系  模式
 stash
 远程分支
+远程2
